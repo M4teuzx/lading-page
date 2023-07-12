@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+
+.navbar-style{
+    background-color: #2a55ab;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main{
+    padding-top: 5vw;
+    padding-bottom: 5vw;
+    background-image: url(../media/background.png);
+    background-size: cover;
+    background-repeat: repeat;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 0;
+    margin-right: 0;
+    color: #ffffff;
+}
+
+.subtitulo{
+    font-size: 25px;
+}
+
+.titulo{
+    font-size: 60px;
+     color: white;
+}
+
+
+.imagem{
+    width: 250px;
+    height: auto;
+}
+
+.imagem-main{
+    margin-top: 30px;
+    width: 150px;
+    height: auto;
+}
+
+#como-funciona{
+    background: linear-gradient(359.71deg, #6D9FFF 31.39%, #2E66D2 178.55%);
+    color: #fff;
+}
+ 
+.cloud {
+    width: 100%;
+    height: 70px;
+    background-image: url('../media/clouds.png');
+    background-repeat: repeat-x;
+    background-size: auto 100%;
+}
+
+
+.cloud2 {
+    width: 100%;
+    height: 70px;
+    background-image: url('../media/clouds2.png');
+    background-repeat: repeat-x;
+
+    z-index: 2;
+    background-size: auto 100%;
+}
+
+.depoimentos{
+    background: linear-gradient(175.93deg, #6C9EFF 24.86%, #2E66D2 145.92%);
+}
+
+.depo-card{
+    box-shadow: 8px 9px 0px #6D9FFF;
+    border-radius: 17px;
+}
+
+.navbar-style{
+    background-color: #2E66D2;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#logo{
+    font-weight: 800;
+    font-size: 40px
+}
+
+.imagem-porque{
+    width: 300px;
+    height: auto;
+}	
+
+.passo{
+    color: black;
+    background-color: #ffffff;
+    border-radius: 15px;
+    padding: 50px;
+}
+
+#imagem-4{
+    width: 150px;
+    height: auto;
+    margin-left: 60px;
+}
+
+#imagem-3{
+    width: 180px;
+    height: auto;
+    margin-left: 25px;
+}
+
+#imagem-2   {
+    width: 200px;
+    height: auto;
+    margin-left: 25px;
+}
+
+.aa{
+padding-left: 50px;
+}
+
+.footer-background {
+    width: 100%;
+    height: 70px;
+    background-image: url('../media/footer-fundo.png');
+    background-repeat: repeat-x;
+    background-size: auto 100%;
+    opacity: 0.8;
+}
+
+.img-pq{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-comeca{
+    color: #2E66D2;
+    background-color: #fff;
+    border-radius: 61px;
+}
+
+.btn-login{
+    color: #2E66D2;
+    background-color: #fff;
+    border-radius: 61px;
+    font-size: 20px;
+}
